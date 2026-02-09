@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Text Formatting Tags</title>
+</head>
+<body>
+
+<h2>HTML Text Formatting Tags Example</h2>
+
+<p><b>This is Bold text</b></p>
+<p><strong>This is Strong (important) text</strong></p>
+
+<p><i>This is Italic text</i></p>
+<p><em>This is Emphasized text</em></p>
+
+<p><u>This is Underlined text</u></p>
+
+<p><mark>This is Highlighted (Marked) text</mark></p>
+
+<p><small>This is Small text</small></p>
+
+<p><del>This is Deleted text</del></p>
+<p><ins>This is Inserted text</ins></p>
+
+<p>H<sub>2</sub>O (Subscript)</p>
+<p>10<sup>2</sup> = 100 (Superscript)</p>
+
+<p><code>This is code text</code></p>
+
+<p><pre>
+This is Preformatted text
+    It keeps spaces and line breaks
+</pre></p>
+
+<p><kbd>Ctrl + C</kbd> is keyboard input</p>
+<p><samp>This is sample output</samp></p>
+<p><var>x</var> = 10 (Variable)</p>
+<br>
+<hr>
+<p><q>This is a short quote</q></p>
+
+<blockquote>
+This is a block quote.  
+It is used for long quotations.
+</blockquote>
+
+<p><cite>Ramayana</cite> is a famous epic.</p>
+
+<p><abbr title="HyperText Markup Language">HTML</abbr> is a web language.</p>
+
+<p><bdo dir="rtl">This text is right to left</bdo></p>
+
+<p>Meeting at <time>10:00 AM</time></p>
+
+</body>
+</html>
