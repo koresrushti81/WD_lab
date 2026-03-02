@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profile</title>
+</head>
+
+<body bgcolor="lightyellow">
+
+<center>
+    <h2>👩‍💻 My Profile</h2>
+
+    <img src="image.png" width="150" height="150" border="2"><br><br>
+
+    <p><b>Hobbies:</b> Singing, Dancing, Coding</p>
+    <p><b>College:</b> D.Y. Patil College of Engineering</p>
+    <p><b>Goal:</b> To become a Software Engineer</p>
+</center>
+
+</body>
+</html>

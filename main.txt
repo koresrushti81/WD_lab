@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Attractive Web Page</title>
+</head>
+
+<body bgcolor="lightpink">
+
+<center>
+    <h1>🌸 Welcome to My Website 🌸</h1>
+    <p><b>Name:</b> Srushti Kore</p>
+    <p><b>Department:</b> Computer Science Engineering</p>
+     
+    <hr width="50%">
+
+    <h2>My Profile Page (Using Iframe)</h2>
+
+    <iframe src="page.html" width="500" height="300" border="2"></iframe>
+
+    <hr width="50%">
+
+    <p>Thank you for visiting my website 😊</p>
+</center>
+
+</body>
+</html>
